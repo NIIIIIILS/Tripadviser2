@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+  width: 1024px;
+  margin: 0px auto;
+}
+
+body {
+  font-family: "TS-Reg", sans-serif;
+}
+
+/* header {
+    background-color: white;
+    border-bottom: lightgray 2px solid;
+    border: 5px red;
+} */
+
+header div {
+  padding: 15px 0px;
+}
+
+header img {
+  width: 200px;
+}
